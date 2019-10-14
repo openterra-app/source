@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## OpenTerra is an open source project for viewing Earth data, using NASA libraries and ReactNative technology for cross-platform support.
 
 You can use the [editor on GitHub](https://github.com/openterra-app/source/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
